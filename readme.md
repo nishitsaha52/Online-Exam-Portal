@@ -4,8 +4,6 @@
 
 This project is an **Online Examination System**, a web-based application developed using PHP, CodeIgniter, and MySQL Database. It offers an examination platform for students in colleges or universities, providing an effortless and efficient method for creating and conducting examinations. The system boasts a pleasant user interface using the Bootstrap Framework, AdminLTE Template, and other libraries, ensuring an enhanced user experience with user-friendly features and functionalities.
 
-![Online Examination System](images/banner.png)
-
 ---
 
 ## About the Online Examination System 📋
@@ -89,31 +87,31 @@ This project is an **Online Examination System**, a web-based application develo
 ## System Snapshots 📸
 
 1. **Login Page**
-   ![Login Page](images/login_page.png)
+   ![Login Page](https://github.com/nishitsaha52/Online-Exam-Portal/blob/main/Pic/CI-PHP-OES-Login-Page.png)
    - Online Examination System
 
 2. **Admin Dashboard Page**
-   !(https://github.com/nishitsaha52/Online-Exam-Portal/blob/main/Pic/CI-PHP-OES-Admin-Dashbaord.png)
+   ![Login Page](https://github.com/nishitsaha52/Online-Exam-Portal/blob/main/Pic/CI-PHP-OES-Admin-Dashbaord.png)
    - Online Examination System
 
 3. **Admin User List Page**
-   ![Admin User List Page](images/admin_user_list.png)
+   ![Admin User List Page](https://github.com/nishitsaha52/Online-Exam-Portal/blob/main/Pic/CI-PHP-OES-Admin-User-list.png)
    - Online Examination System
 
 4. **Lecturer Exam List Page**
-   ![Lecturer Exam List Page](images/lecturer_exam_list.png)
+   ![Lecturer Exam List Page](https://github.com/nishitsaha52/Online-Exam-Portal/blob/main/Pic/CI-PHP-OES-Lecturer-Exam-list.png)
    - Online Examination System
 
 5. **Lecturer Exam Result Page**
-   ![Lecturer Exam Result Page](images/lecturer_exam_result.png)
+   ![Lecturer Exam Result Page](https://github.com/nishitsaha52/Online-Exam-Portal/blob/main/Pic/CI-PHP-OES-Lecturer-Exam-result.png)
    - Online Examination System
 
 6. **Student Exam List Page**
-   ![Student Exam List Page](images/student_exam_list.png)
+   ![Student Exam List Page](https://github.com/nishitsaha52/Online-Exam-Portal/blob/main/Pic/CI-PHP-OES-Student-Exam-list.png)
    - Online Examination System
 
 7. **Student Take Exam Page**
-   ![Student Take Exam Page](images/student_take_exam.png)
+   ![Student Take Exam Page](https://github.com/nishitsaha52/Online-Exam-Portal/blob/main/Pic/CI-PHP-OES-Student-Take-Exam.png)
    - Online Examination System
 
 ---
