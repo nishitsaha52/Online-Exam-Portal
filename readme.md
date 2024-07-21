@@ -93,7 +93,7 @@ This project is an **Online Examination System**, a web-based application develo
    - Online Examination System
 
 2. **Admin Dashboard Page**
-   ![Admin Dashboard Page](images/admin_dashboard.png)
+   !(https://github.com/nishitsaha52/Online-Exam-Portal/blob/main/Pic/CI-PHP-OES-Admin-Dashbaord.png)
    - Online Examination System
 
 3. **Admin User List Page**
